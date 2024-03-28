@@ -1,7 +1,7 @@
 <!--
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 -->
-<h1 align="center">Hi 👋, I'm Pranav Jawale</h1>
+<h1 align="center">Hi 👋, I'm Abhijit Jawale</h1>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavjawale01&theme=dark_lover" alt="pranavjawale01" /></a> </p>
 -->
