@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhijit Jawale</h1>
-<h3 align="center">Final Year CSE Student | Aspiring Software Development Engineer (SDE) 🚀</h3>
+<h3 align="center">Final Year CSE Student | Competitive Programmer | Aspiring SDE 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Final+Year+CSE+Student;500%2B+LeetCode+Problems+Solved;DSA+in+C%2B%2B+%7C+Machine+Learning+with+Python;Future+Software+Development+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=500%2B+LeetCode+Problems+Solved;DSA+%7C+Competitive+Coding+%7C+Machine+Learning;C%2B%2B+%7C+Java+%7C+Python+%7C+Web+Developer;Future+Software+Development+Engineer" />
 </p>
 
 <p align="center">
-⚡ DSA + C++ &nbsp; | &nbsp; 🧠 Machine Learning &nbsp; | &nbsp; 🏆 LeetCode Enthusiast  
+⚡ Competitive Programming & DSA  |  🧠 Machine Learning  |  🏆 Problem Solver  
 </p>
 
 ---
@@ -14,78 +14,101 @@
 ## 🔥 About Me
 
 - 🎓 Final Year Computer Science Engineering Student  
-- 💻 Strong foundation in **Data Structures & Algorithms (C++)**  
-- 🧠 Exploring **Machine Learning using Python**  
-- 🏆 Solved **500+ LeetCode problems** and consistently practicing  
+- 💻 Strong in **Data Structures & Algorithms**  
+- 🏆 Solved **500+ problems on LeetCode**  
+- 🥇 Active on **CodeChef, Codeforces, HackerRank, AtCoder, GFG, Codolio**  
+- 🧠 Exploring **Machine Learning with Python**  
+- 🌐 Also learning **Web Development (HTML, CSS)**  
 - 🎯 Target Role: **Software Development Engineer (SDE)**  
-- 🔥 Consistency > Motivation  
-- 📫 How to reach me: **jawaleabhi09@gmail.com**
+- 🔥 Competitive mindset with consistency  
 
 ---
 
-## 🚀 What I Do
+## 🏆 Competitive Coding Profiles
 
-- Solve complex DSA problems and optimize solutions  
-- Build strong logical thinking and coding discipline  
-- Learn Machine Learning concepts step by step  
-- Prepare myself for real-world Software Engineering challenges  
+<p align="center">
+<a href="https://leetcode.com/abhijitjawale" target="blank">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/leet-code.svg" height="40" width="40"/>
+</a>
+<a href="https://www.codechef.com/users/your_username" target="blank">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/codechef.svg" height="40" width="40"/>
+</a>
+<a href="https://codeforces.com/profile/your_username" target="blank">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/codeforces.svg" height="40" width="40"/>
+</a>
+<a href="https://www.hackerrank.com/jawaleabhi09" target="blank">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/hackerrank.svg" height="40" width="40"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/your_username/" target="blank">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/geeks-for-geeks.svg" height="40" width="40"/>
+</a>
+<a href="https://atcoder.jp/users/your_username" target="blank">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Social/atcoder.svg" height="40" width="40"/>
+</a>
+<a href="https://codolio.com/profile/your_username" target="blank">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-code-icon-internet-site-development-programming-technology-shadow-tal-revivo.png"/>
+</a>
+</p>
+
+> Replace `your_username` with your real IDs.
 
 ---
 
-## 🏆 Coding Profile Highlights
+## 🧠 Skills & Technologies
 
-- 🔥 500+ DSA problems solved on LeetCode  
-- 💡 Strong in:
-  - Arrays & Strings  
-  - Sliding Window  
-  - Linked List, Stack, Queue  
-  - Trees & Graphs  
-  - Dynamic Programming  
-- 📊 Regular LeetCode practice with badges earned  
+<p align="center">
+
+<!-- Languages -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+
+<!-- Web -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
+
+<!-- Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+
+</p>
 
 ---
 
-## 🌱 Currently Working On
+## 📊 GitHub Contribution & Stats
 
-- Sharpening **DSA in C++**
-- Improving problem-solving speed & accuracy  
-- Exploring **Machine Learning algorithms with Python**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhijitjawale09&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitjawale09&theme=highcontrast" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijitjawale09&show_icons=true&theme=radical" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijitjawale09&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🌱 Currently Grinding
+
+- 🔥 Competitive Programming daily  
+- 📈 Speed + accuracy improvement  
+- 🧠 Machine Learning algorithms  
+- 🌐 Web basics with HTML & CSS  
 
 ---
 
 ## ✨ Motto
 
-> “Code every day. Improve every day. Win eventually.”  
+> “Discipline beats motivation. Every problem makes me stronger.”  
 >  
-> “From logic to code, from student to SDE.”
+> “From Competitive Coder → Professional SDE.”
 
 ---
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/jawaleabhi09" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" height="30" width="40"/>
-</a>
-<a href="https://www.leetcode.com/abhijitjawale" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" height="30" width="40"/>
-</a>
-</p>
-
----
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijitjawale09&theme=highcontrast" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijitjawale09&show_icons=true&locale=en&layout=compact" />
-</p>
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5">
