@@ -8,6 +8,24 @@
 <p align="center">
 ⚡ Competitive Programming & DSA  |  🧠 Machine Learning  |  🏆 Problem Solver  
 </p>
+<h3 align="left">📫 Contact Me:</h3>
+
+<p align="center">
+  <!-- Gmail -->
+  <a href="mailto:jawaleabhi09@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" height="45"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your_linkedin_username/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" height="45"/>
+  </a>
+
+  <!-- Twitter (X) -->
+  <a href="https://twitter.com/your_twitter_username" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="45" height="45"/>
+  </a>
+</p>
 
 ---
 
