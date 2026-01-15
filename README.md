@@ -29,16 +29,10 @@
 
 ---
 
-## 🔥 About Me
+## 🚀 About Me
 
-- 🎓 Final Year Computer Science Engineering Student  
-- 💻 Strong in **Data Structures & Algorithms**  
-- 🏆 Solved **500+ problems on LeetCode**  
-- 🥇 Active on **CodeChef, Codeforces, HackerRank, AtCoder, GFG, Codolio**  
-- 🧠 Exploring **Machine Learning with Python**  
-- 🌐 Also learning **Web Development (HTML, CSS)**  
-- 🎯 Target Role: **Software Development Engineer (SDE)**  
-- 🔥 Competitive mindset with consistency  
+🌱 I’m currently diving deeper into Backend Development
+🧠 Exploring Data Structures, C++, Java, Kotlin, Python & Firebase
 
 ---
 
